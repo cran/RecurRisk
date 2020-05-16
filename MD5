@@ -1,0 +1,16 @@
+022557455a175d600fbdd7701cf64461 *DESCRIPTION
+7b258b2f3b4d4e67faa73237b73c3ebb *NAMESPACE
+86acc621f089d80677b2cca5d8c26460 *R/read.seerstat.R
+d6d5576fa363f239d83f7f0444c7beef *R/recurrisk.group.R
+87be83f7f9a6a030357b0d4c648d778b *R/recurrisk.individual.R
+b5b3048d1c956682c7de8679f85b7235 *build/partial.rdb
+9b320b0def8f4e19038c173266df6b7f *data/data.cansurv.rda
+f704082b3cf3175f7f2200b7437016bf *data/data.group.rda
+2b1dfc8a4f1e574ce221af51168396bb *data/data.individual.rda
+dbcbbd050b51dfe2b1983b212381abbe *man/RecurRisk-package.Rd
+038a4c278c6654f1ab4da5800e93c465 *man/data.cansurv.Rd
+2c8bfa2951b85359dd1586c403059b64 *man/data.group.Rd
+ad31792389522bb7a4726b1f82515b05 *man/data.individual.Rd
+01542978d3bfdb6e00b73258a8021d62 *man/read.seerstat.Rd
+a854310bdbbaa4b67d08d89cb9810da5 *man/recurrisk.group.Rd
+4cac7f4ef332880275f9e5401f314338 *man/recurrisk.individual.Rd
