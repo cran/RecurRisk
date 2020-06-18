@@ -16,7 +16,7 @@ The cure fraction and parametric survival distribution among those not cured are
 The current version can handle Weibull and log-logistic distributions for the non-cured survival.
 }
 \author{
-Fanni Zhang <zhangf@imsweb.com>
+Fanni Zhang <fannizhang@gmail.com>
 }
 \references{
 Mariotto AB, Zou Z, Zhang F, Howlader N, Kurian AW, Etzioni R. 
