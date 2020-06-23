@@ -1,2 +1,3 @@
 import(stats,SEER2R,flexsurvcure,survival)
-export(read.seerstat,recurrisk.group,recurrisk.individual)
+export("read.seerstat", "recurrisk.group",
+       "recurrisk.individual")
